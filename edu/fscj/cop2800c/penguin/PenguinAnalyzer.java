@@ -1,6 +1,6 @@
 // PenguinAnalyzer.java
-// D. Singletary
-// 3/14/25
+// Gabriela Hernandez
+// 11/24/26
 // Handles file reading, processing, and writing of penguin data
 
 package edu.fscj.cop2800c.penguin;

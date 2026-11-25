@@ -1,6 +1,6 @@
 // Penguin.java
-// D. Singletary
-// 3/15/25
+// Gabriela Hernandez
+// 11/24/26
 // Represents a Palmer Penguin
 
 package edu.fscj.cop2800c.penguin;
